@@ -1,0 +1,19 @@
+body{
+  font-family: Sans-Serif;
+  background: #43C6DB;
+  color: black;
+  
+} 
+.welcome{
+  color: #56f9;
+  font-size: 15px;
+  
+} 
+.info{
+  border: 2px solid white;
+  padding:  20px;
+} 
+b{color:red;}
+img{
+  will-change: 100%;
+}
